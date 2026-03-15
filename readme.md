@@ -121,7 +121,7 @@ Each experiment logged:
 - training plots
 - saved model artifacts
 
-The **`mlruns` directory** contains the recorded experiments.
+
 
 ---
 
